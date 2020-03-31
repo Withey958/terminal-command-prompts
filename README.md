@@ -12,7 +12,9 @@ Create a directory: | mkdir
 Remove an empty directory: | rmdir
 Superuser privileges: | sudo
 Get one-line description of command: | whatis
+Show manual for command | man
 Text editor: | nano
+Create file: | touch
 
 ## Git
 Function | Command
